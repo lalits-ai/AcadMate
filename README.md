@@ -21,6 +21,13 @@
 
 The application utilizes **Firestore** for data retrieval, which allows efficient storage and access to user details and images.
 
+
+# Demo
+<video width="640" height="360" controls>
+  <source src="https://www.example.com/path/to/your/video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Getting Started
 
 To get started with **AcadMate**, clone the repository:
