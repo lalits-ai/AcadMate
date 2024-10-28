@@ -27,3 +27,5 @@ To get started with **AcadMate**, clone the repository:
 
 ```bash
 git clone git@github.com:lalits-ai/AcadMate.git
+```
+
